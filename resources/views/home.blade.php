@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    <a href="{{ route('request.home')}}">Request</a>
                 </div>
             </div>
         </div>
